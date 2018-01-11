@@ -1,0 +1,62 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log();" description="console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clrf" value="console.log();&#10;return false;" description="console log return false" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Sinit" value="initialize: function () {&#10;&#10;}," description="initialize of S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Smf" value="modelFactory: function () {&#10;&#10;}," description="modelFactory of S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Scc" value="(function () {&#10;&#10;  S.Component.create('', {&#10;  &#10;  });&#10;&#10;})();" description="Component create of S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Somc" value="onModelCreated: function () {&#10;&#10;}," description="onModelCreated on S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Sccc" value="createChildComponents: function () {&#10;&#10;}," description="createChildComponents of S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Sor" value="onRendered: function () {&#10;&#10;}," description="onRendered of S" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cw" value="console.warn();" description="console warn" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ce" value="console.error();" description="console error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cg" value="console.group('');&#10;console.log();&#10;console.groupEnd();" description="console group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="scfn" value=": function () {&#10;&#10;}," description="make function on S Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
