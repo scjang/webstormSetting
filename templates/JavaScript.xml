@@ -19,7 +19,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="Scc" value="(function () {&#10;&#10;  S.Component.create('', {&#10;  &#10;  });&#10;&#10;})();" description="Component create of S" toReformat="false" toShortenFQNames="true">
+  <template name="Scc" value="(function () {&#10;  S.Component.create('', {&#10;  &#10;  });&#10;})();" description="Component create of S" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
