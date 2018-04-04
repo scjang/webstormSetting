@@ -1,0 +1,9 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="192.168.10.210:8080/scm/hg/kaffa" value="dev" />
+      </map>
+    </option>
+  </component>
+</application>
