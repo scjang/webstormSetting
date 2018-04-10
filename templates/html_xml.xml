@@ -1,5 +1,5 @@
 <templateSet group="html/xml">
-  <template name="scrtt" value="&lt;script type=&quot;text/template&quot; id=&quot;&quot;&gt;&#10;&#10;  &lt;h1&gt;hello!&lt;/h1&gt;&#10;&#10;&lt;/script&gt;" description="template of S" toReformat="false" toShortenFQNames="true">
+  <template name="scrtt" value="&lt;script type=&quot;text/template&quot; id=&quot;&quot;&gt;&#10;  &lt;h1&gt;hello!&lt;/h1&gt;&#10;&lt;/script&gt;" description="template of S" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
